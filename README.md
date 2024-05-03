@@ -13,7 +13,7 @@ source .venv/bin/activate
 
 **Use Llamafile for a full RAG and LLM setup**
 
-You can download the model from the Llamafile repository and run it in your system: [Llamafile]https://github.com/Mozilla-Ocho/llamafile?tab=readme-ov-file#other-example-llamafiles
+You can download the model from the Llamafile repository and run it in your system: [Llamafile](https://github.com/Mozilla-Ocho/llamafile?tab=readme-ov-file#other-example-llamafiles)
 
 ```python
 #!/usr/bin/env python3
